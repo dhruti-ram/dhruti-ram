@@ -45,7 +45,11 @@ Data Analyst | SnowPro Core Certified ❄️ | SQL · Snowflake · Tableau · Py
 
 **Tools:** Tableau Public · Calculated Fields · Parameter Actions · Cross-sheet Filters
 
-🔗 
+Comparison of Region Based on Sales
+🔗 https://public.tableau.com/views/ComparisonofRegionBasedonSales_16635202261720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Annual Bonus Analysis
+🔗https://public.tableau.com/views/AnnualBonusAnalysis_16924597228680/AnnualBonusAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ### 2. 🛒 E-Commerce Sales & Profitability Dashboard
